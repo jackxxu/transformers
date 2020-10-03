@@ -1,0 +1,5 @@
+transformers 
+command
+pandas
+tensorflow
+jupyterlab
